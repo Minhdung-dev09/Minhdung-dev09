@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Midu09
+- 👋 Hi, I’m @DoanMinhDung
 - I’m a passionate programmer who loves technology and wants to share my knowledge with the GitHub community. 😊
 
 Welcome to my GitHub page! I’ve completed many software development projects and want to continue learning and developing my skills. 🚀
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 Here are some of the projects I've been working on:
 
-### [Project : Law Website]()
+### [Project : Law Website](https://github.com/Minhdung-dev09/Law-project.git)
 
 ## 📈 GitHub Stats
 
