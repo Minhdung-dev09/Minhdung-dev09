@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Node.js, Express
+- **Languages:** JavaScript, TypeScript
+- **Frameworks/Libraries:** Node.js, Express, NextJS, Reactjs
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Docker, VS Code
 - **Cloud Platforms:** AWS, Azure, Google Cloud Platform
@@ -25,7 +25,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 Here are some of the projects I've been working on:
 
-### [Project : Law Website](https://github.com/Minhdung-dev09/Law-project.git)
+### [Project : Law Website](https://sushilaw.io.vn/)
+
+
 
 ## 📈 GitHub Stats
 
@@ -33,7 +35,6 @@ Here are some of the projects I've been working on:
 ## 📫 How to reach me
 
 - **Email:** doanminhdung662@gmail.com
-- **Email:** 2121050986@student.humg.edu.vn
 
 ## 💬 Let's Connect!
 
