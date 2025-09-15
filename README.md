@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 ## 🔧 Technologies & Tools
 
 - **Languages:** JavaScript, TypeScript
-- **Frameworks/Libraries:** Node.js, Express, NextJS, Reactjs
+- **Frameworks/Libraries:** Node.js, Express, NextJS, Reactjs, GrapesJS
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, VS Code
+- **Tools:** Git, Docker, VS Code, Gitlab
 - **Cloud Platforms:** AWS, Azure, Google Cloud Platform
 
 ## 🛠️ Projects
